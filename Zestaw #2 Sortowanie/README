@@ -1,0 +1,32 @@
+┌─────────────────────────────────────────────────────────────────────────┐
+│  Autor: Jakub Wiśneiwski                            Kraków, 26.10.2021  │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                         │
+│  • Zawartosc:                                                           │
+│    Katalog zawiera programy w jezyku C i plik Makefile sluzacy do       │
+│    kompilacji                                                           │
+│                                                                         │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                         │
+│  • Działanie:                                                           │
+│    Programy implementuja algorytmy sortowania dla losowo                │
+│    wygenerowanych wektorow                                              │
+│                                                                         │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                         │
+│  • Jak uruchomic programy:                                              │
+│    Katalog zawiera program Makefile do kompilacji, linkowania i         │
+│    uruchamiania powyzszych programow, a takze czyszczenia katalogu      │
+│    i jego archiwizacji                                                  │
+│                                                                         │
+│       • Aby uruchomic programy, nalezy wykonac komende:                 │
+│            make run                                                     │
+│                                                                         │
+│       • Aby wyczyscic zawartosc katalogu (usunac zbedne pliki),         │
+│         nalezy wykonac:                                                 │
+│            make clean                                                   │
+│                                                                         │
+│       • W celu archiwizacji oraz kompresji katalogu nalezy wykonac:     │
+│            make tar                                                     │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
